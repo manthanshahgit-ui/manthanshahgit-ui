@@ -71,7 +71,7 @@ I enjoy turning simple college assignments into full working web applications ğŸ
 ## ğŸ“‚ My Projects
 
 ### ğŸ“š Library Management System
-<p>
+<p align="center">
   <a href="https://github.com/manthanshahgit-ui/library-management-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manthanshahgit-ui&repo=library-management-system&theme=dark" />
   </a>
@@ -80,7 +80,7 @@ I enjoy turning simple college assignments into full working web applications ğŸ
 ---
 
 ### ğŸ“ Club Project (Frontend + JavaScript)
-<p>
+<p align="center">
   <a href="https://github.com/manthanshahgit-ui/club_project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manthanshahgit-ui&repo=club_project&theme=dark" />
   </a>
@@ -89,7 +89,7 @@ I enjoy turning simple college assignments into full working web applications ğŸ
 ---
 
 ### ğŸ“Š Carbon Emission Analysis
-<p>
+<p align="center">
   <a href="https://github.com/manthanshahgit-ui/workshop_project_carbon_emisson">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manthanshahgit-ui&repo=workshop_project_carbon_emisson&theme=dark" />
   </a>
@@ -98,7 +98,7 @@ I enjoy turning simple college assignments into full working web applications ğŸ
 ---
 
 ### ğŸŒ Explore Pune Tourist Website
-<p>
+<p align="center">
   <a href="https://github.com/sakshiugale019-sys/explore-pune-tourist">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakshiugale019-sys&repo=explore-pune-tourist&theme=dark" />
   </a>
