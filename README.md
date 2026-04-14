@@ -45,13 +45,15 @@ I enjoy turning simple college assignments into full working web applications �
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/manthanshah266) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ManthanShah) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/manthanshah266)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthan-shah-h306206)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manthanshahgit@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
+
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -66,7 +68,46 @@ I enjoy turning simple college assignments into full working web applications �
 
 ---
 
+## 📂 My Projects
+
+### 📚 Library Management System
+<p>
+  <a href="https://github.com/manthanshahgit-ui/library-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manthanshahgit-ui&repo=library-management-system&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 🎓 Club Project (Frontend + JavaScript)
+<p>
+  <a href="https://github.com/manthanshahgit-ui/club_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manthanshahgit-ui&repo=club_project&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 📊 Carbon Emission Analysis
+<p>
+  <a href="https://github.com/manthanshahgit-ui/workshop_project_carbon_emisson">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manthanshahgit-ui&repo=workshop_project_carbon_emisson&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 🌍 Explore Pune Tourist Website
+<p>
+  <a href="https://github.com/sakshiugale019-sys/explore-pune-tourist">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakshiugale019-sys&repo=explore-pune-tourist&theme=dark" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=manthanshahgit-ui&theme=dark&include_all_commits=true&count_private=true" />
 </p>
@@ -82,6 +123,7 @@ I enjoy turning simple college assignments into full working web applications �
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=manthanshahgit-ui&theme=radical&no-frame=true&margin-w=4" />
 </p>
@@ -89,6 +131,7 @@ I enjoy turning simple college assignments into full working web applications �
 ---
 
 ## 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
@@ -96,6 +139,7 @@ I enjoy turning simple college assignments into full working web applications �
 ---
 
 ## ✍️ Random Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
