@@ -84,13 +84,6 @@ I enjoy turning simple college assignments into full working web applications �
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manthanshahgit-ui&theme=radical&no-frame=true&margin-w=4" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
