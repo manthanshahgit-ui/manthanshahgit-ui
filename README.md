@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;MERN+Stack+Learner;EJS+%7C+Node.js+Enthusiast;Always+Building+New+Projects+🚀&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;MERN+Stack+Learner;EJS+%7C+Node.js+Enthusiast;Always+Building+Projects+🚀&center=true&width=500&height=50">
 </p>
 
 <p align="center">
@@ -65,44 +65,6 @@ I enjoy turning simple college assignments into full working web applications �
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge)
-
----
-
-## 📂 My Projects
-
-### 📚 Library Management System
-<p align="center">
-  <a href="https://github.com/manthanshahgit-ui/library-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manthanshahgit-ui&repo=library-management-system&theme=dark" />
-  </a>
-</p>
-
----
-
-### 🎓 Club Project (Frontend + JavaScript)
-<p align="center">
-  <a href="https://github.com/manthanshahgit-ui/club_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manthanshahgit-ui&repo=club_project&theme=dark" />
-  </a>
-</p>
-
----
-
-### 📊 Carbon Emission Analysis
-<p align="center">
-  <a href="https://github.com/manthanshahgit-ui/workshop_project_carbon_emisson">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manthanshahgit-ui&repo=workshop_project_carbon_emisson&theme=dark" />
-  </a>
-</p>
-
----
-
-### 🌍 Explore Pune Tourist Website
-<p align="center">
-  <a href="https://github.com/sakshiugale019-sys/explore-pune-tourist">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakshiugale019-sys&repo=explore-pune-tourist&theme=dark" />
-  </a>
-</p>
 
 ---
 
