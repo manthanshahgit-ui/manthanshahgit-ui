@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Manthan%20Shah&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;MERN+Stack+Learner;EJS+%7C+Node.js+Enthusiast;Always+Building+New+Projects+🚀&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manthanshahgit-ui&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 # 💫 About Me
 
 🔭 I’m currently working on  
@@ -53,20 +67,39 @@ I enjoy turning simple college assignments into full working web applications �
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=manthanshahgit-ui&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.demolab.com/?user=manthanshahgit-ui&theme=dark&hide_border=false)  
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manthanshahgit-ui&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=manthanshahgit-ui&theme=dark&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=manthanshahgit-ui&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manthanshahgit-ui&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manthanshahgit-ui&theme=radical&no-frame=true&margin-w=4" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manthanshahgit-ui&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-⭐ *Proudly building projects from college level to real-world applications 🚀*
+⭐ *Always learning, building, and turning ideas into real-world projects 🚀*
